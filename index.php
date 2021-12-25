@@ -43,7 +43,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</form>
 			</div>
 			<ul class="agile_forms">
-				<li><a class="active" href="students/index.php"><i class="fa fa-sign-in" aria-hidden="true"></i> Sign In now</a> </li>
+				<li><a class="active" href="./students/index.php"><i class="fa fa-sign-in" aria-hidden="true"></i> Sign In now</a> </li>
 			<!--	<li><a href="#" data-toggle="modal" data-target="#myModal3"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Sign Up</a> </li> -->
 			</ul>
 			
@@ -199,7 +199,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<img src="images/ab1.jpg" alt="">
 			</div>
 			<div class="wthree-services-right">
-				<img src="images/alatooa.jpg" alt="">
+				<img src="images/Alatooa.jpg" alt="">
 			</div>
 			<div class="clearfix"> </div>
 		</div>
