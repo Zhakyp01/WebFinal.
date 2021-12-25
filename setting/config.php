@@ -9,6 +9,11 @@ class project2
 	public $password = "6f056b8657c0a492a9e64a832cae6af72076057ff006fa2fc5bb0f6edb99fbe4";
 	public $dbname = "d5ggtlfjp70kb9";
 	public $connectdb;
+	// public $server = "localhost";
+	// public $username = "root";
+	// public $password = "";
+	// public $dbname = "edu-dr";
+	// public $connectdb;
 	
 	function __construct()
 	{
