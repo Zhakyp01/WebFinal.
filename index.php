@@ -384,8 +384,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</div>
 		<div class="team-w3l-grid grid-2-team">
 			<div class="col-md-4 col-xs-4 about-poleft t1">
-				<div class="about_img"><img src="images/t4.jpg" alt="">
-				  <h5>Cameron</h5>
+				<div class="about_img"><img src="images/nurmuhammed.jpg" alt="">
+				  <h5>Nurmuhammed</h5>
 				  <div class="about_opa">
 					<p>Professor</p>
 					<ul class="fb_icons2 text-center">
