@@ -39,10 +39,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			</div>
 			<ul class="agile_forms">
 				<li><a class="active" href="./meadmin/index.php"><i class="fa fa-sign-in" aria-hidden="true"></i> Sign In now</a> </li>
-			<!--	<li><a href="#" data-toggle="modal" data-target="#myModal3"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Sign Up</a> </li> -->
 			</ul>
 			
-			<!-- Collect the nav links, forms, and other content for toggling -->
+			
 			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 				<nav class="link-effect-2" id="link-effect-2">
 					<ul class="nav navbar-nav">
@@ -60,7 +59,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<div class="clearfix"> </div> 
 	</div>
 </div>
-<!-- banner -->
+
 <div class="about-bottom">
 	<div class="col-md-6 w3l_about_bottom_left">
 		<div class="video-grid-single-page-agileits">
@@ -109,80 +108,22 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</div>
 	</div>
 </div>
-<!-- //banner -->
-<!-- Modal1 
-<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
-	<div class="modal-dialog">
+
 	
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				
-				<div class="signin-form profile">
-					<h3 class="agileinfo_sign">Sign In</h3>	
-					<div class="login-form">
-						<form  method="post">
-							<input type="text" name="st_username" placeholder="Enter Your Username" required="">
-							<input type="password" name="st_password" placeholder="Password" >
-							<div class="tp">
-								<input type="submit" value="Sign In" name="student_signin">
-							</div>
-						</form>
-					</div>
-					<div class="login-social-grids">
-						<ul>
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-rss"></i></a></li>
-						</ul>
-					</div>
-					<p><a href="#" data-toggle="modal" data-target="#myModal3" > Don't have an account?</a></p>
-				</div>
-				
-			</div>
-		</div>
-	</div>
-</div>
-//Modal1 -->	
-	
-	
-<!-- Modal2 -->
+
 <div class="modal fade" id="myModal3" tabindex="-1" role="dialog">
 	<div class="modal-dialog">
-	<!-- Modal content-->
+	
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-			<!--
-				<div class="signin-form profile">
-					<h3 class="agileinfo_sign">Sign Up</h3>	
-					<div class="login-form">
-						<form method="post" >
-						   <input type="text" name="username" placeholder="Username" required="">
-							<input type="email" name="email" placeholder="Email" required="">
-							<input type="password" name="password" placeholder="Password" required="">
-							<select class="form-control" name="grade" required="">
-							
-								<option class="select_grade">
-								Select Class
-								</option>
-							
-								
-								
-							</select>
-							<input type="submit" value="Sign Up" name="student_signup">
-						</form>
-					</div>
-					<p><a href="#"> By clicking Sign Up, I agree to your terms</a></p>
-				</div>
-				-->
+			
 			</div>
 		</div>
 	</div>
 </div>
 <div class="clearfix"> </div> 
-<!-- //Modal2 -->	
-<!-- about -->
+
 <div class="about-top" id="about">
 	<div class="container">
 		<h3 class="w3l-title">About Us</h3>
@@ -220,9 +161,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</div>
 	</div>
 </div>
-<!-- //modal --> 
-<!-- //about -->
-<!--stats-->
+
 <div class="stats" id="stats">
 	<div class="container">
 		<div class="stats-info">
@@ -254,8 +193,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</div>
 	</div>
 </div>
-<!--//stats-->
-<!-- services -->
+
 <div class="services" id="services" >
 	<div class="container">  
 		<h3 class="w3l-title">Our Services</h3>
@@ -285,8 +223,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</div>  
 	</div>
 </div>
-<!-- //services -->
-<!-- Gallery -->
+
 <section class="portfolio-w3ls" id="gallery">
 		<h3 class="w3l-title">Our Gallery</h3>
 		<div class="w3layouts_header">
@@ -390,8 +327,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</div>
 				<div class="clearfix"> </div>
 </section>
-<!-- //gallery -->
-<!-- team -->
+
 <div class="team-w3l" id="team">
 	<div class="container">
 		<h3 class="w3l-title">Our Skilled Lecturers</h3>
@@ -694,7 +630,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	</div>
 </div>
 <div id="map"></div>
-<!-- footer -->
+
 <div class="footer">
 	<div class="container">
 		<div class="wthree_footer_grid_left">
@@ -739,16 +675,12 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	</div>
 </div>
 	<?php }?>
-	<!-- //footer -->
+	
 
-<!-- js-scripts -->			
-<!-- js-files -->
+
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script> <!-- Necessary-JavaScript-File-For-Bootstrap --> 
-<!-- //js-files -->
-<!-- Baneer-js -->
 
-<!-- Map-JavaScript -->
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>        
 			<script type="text/javascript">
 				google.maps.event.addDomListener(window, 'load', init);
@@ -766,15 +698,12 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					});
 				}
 			</script>
-		<!-- //Map-JavaScript -->
+		
 
-<!-- smooth scrolling -->
 <script src="js/SmoothScroll.min.js"></script>
-<!-- //smooth scrolling -->
-<!-- stats -->
+
 <script type="text/javascript" src="js/numscroller-1.0.js"></script>
-<!-- //stats -->
-<!-- moving-top scrolling -->
+
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
 <script type="text/javascript">
@@ -799,32 +728,29 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		});
 	</script>
 	<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
-<!-- //moving-top scrolling -->
-<!-- gallery popup -->
+
 <script src="js/jquery.swipebox.min.js"></script> 
 <script type="text/javascript">
 jQuery(function($) {
 	$(".swipebox").swipebox();
 });
 </script>
-<!-- //gallery popup -->
-<!--/script-->
+
 	<script src="js/simplePlayer.js"></script>
 			<script>
 				$("document").ready(function() {
 					$("#video").simplePlayer();
 				});
 			</script>
-<!-- //Baneer-js -->
-<!-- Calendar -->
+
 <script src="js/jquery-ui.js"></script>
 	<script>
 	  $(function() {
 		$( "#datepicker" ).datepicker();
 	 });
 	</script>
-<!-- //Calendar -->	
 
-<!-- //js-scripts -->
+
+
 </body>
 </html>
