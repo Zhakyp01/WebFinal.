@@ -4,7 +4,7 @@
 
 # Technologies: 
 * front-end : HTML , CSS , JavaScript , Jquery , Bootstrap 
-* back-end : PHP, Mysql, API
+* back-end : PHP, Mysql, JSON, API
 * Software : Xampp, Any browser
 
 # Setup and Installation
