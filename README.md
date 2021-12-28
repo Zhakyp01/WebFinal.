@@ -1,6 +1,6 @@
 # WebFinal.
 ## AIU website
-### Contributors Nazim Mukhtarbekov and Zhakyp Zhoomart uulu
+### Contributors: Nazim Mukhtarbekov and Zhakyp Zhoomart uulu
 
 #### screenshots
 
