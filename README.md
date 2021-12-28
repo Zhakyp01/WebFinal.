@@ -2,6 +2,21 @@
 ## AIU website
 ### Contributors: Nazim Mukhtarbekov and Zhakyp Zhoomart uulu
 
+# Technologies: 
+* front-end : HTML , CSS , JavaScript , Jquery , Bootstrap 
+* back-end : PHP, Mysql, API
+* Software : Xampp, Any browser
+
+# Setup and Installation
+* Download the zip file of this directory.
+* Copy the file into your xampp htdocs location. by default the location is **C://xampp/htdocs**
+* Open the xampp controller and start Apache and Mysql
+* Open any browser any type **localhost/phpmyadmin** in the URL
+* Create a new database **edu-dr**
+* Select this database and click on **import** section. select this file : **C://xampp/htdocs/WebFinal/sql/edu-dr.sql**, and hit OK. It will create all the relevant table for this project.
+* Now everything is set. Open your browser any type this : **localhost/WebFinal**
+
+
 #### screenshots
 
 ![Screenshot 2021-12-28 190727](https://user-images.githubusercontent.com/73534500/147570485-e5e9a4a7-4721-4f86-84bf-a4c57fcea107.png)
