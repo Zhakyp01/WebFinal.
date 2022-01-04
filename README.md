@@ -2,6 +2,12 @@
 ## AIU website link http://alatoo.freecluster.eu/alatoo/index.php
 ### Contributors: Nazim Mukhtarbekov and Zhakyp Zhoomart uulu
 
+## About project
+It's the simple university management site, developed for educational purpose.
+Site works with database. It has 3 pages.log in page, home page andt etc. 
+
+
+
 # Technologies: 
 * front-end : HTML , CSS , JavaScript , Jquery , Bootstrap 
 * back-end : PHP, Mysql, Postgresql, JSON, API
