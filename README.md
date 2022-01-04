@@ -16,6 +16,9 @@
 * Select this database and click on **import** section. select this file : **C://xampp/htdocs/WebFinal/sql/edu-dr.sql**, and hit OK. It will create all the relevant table for this project.
 * Now everything is set. Open your browser any type this : **localhost/WebFinal**
 
+### System Administrator
+      Login: alatoo
+      Password: alatoo1996
 
 #### screenshots
 
@@ -27,7 +30,5 @@
 ![Screenshot 2021-12-28 191746](https://user-images.githubusercontent.com/73534500/147570476-b930f4d7-30d2-4a07-85f2-9f4fd0ba8184.png)
 ![Screenshot 2021-12-28 191820](https://user-images.githubusercontent.com/73534500/147570478-f9eea619-a41a-49a5-8aba-ea48155035d1.png)
 ![Screenshot 2021-12-28 191849](https://user-images.githubusercontent.com/73534500/147570479-cb4e8ed0-b088-4bd4-88c4-533429c87464.png)
-![Screenshot 2021-12-28 190519](https://user-images.githubusercontent.com/73534500/147570480-04b0a2e1-d686-415d-b83c-e7c1360e1a49.png)
-![Screenshot 2021-12-28 190600](https://user-images.githubusercontent.com/73534500/147570481-f128379c-6880-4391-8112-cd6985b43a60.png)
-![Screenshot 2021-12-28 190646](https://user-images.githubusercontent.com/73534500/147570483-2d881a2b-631e-4914-8e74-e8c1c191ea0c.png)
+
 
