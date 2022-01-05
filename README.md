@@ -4,7 +4,7 @@
 
 ## About project
 It's the simple university management site, developed for educational purpose.
-Site works with database. It has 3 pages.log in page, home page andt etc. 
+Site works with database. It has 3 pages.log in page, home page, system admin page. In system admin page only admin can log in and edit students and all staff. 
 
 
 
