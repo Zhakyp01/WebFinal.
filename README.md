@@ -1,6 +1,5 @@
 # WebFinal.
 ## AIU website link http://alatoo.freecluster.eu/alatoo/index.php
-### Contributors: Nazim Mukhtarbekov and Zhakyp Zhoomart uulu
 
 ## About project
 It's the simple university management site, developed for educational purpose.
